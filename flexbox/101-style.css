@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+.box1 {
+    background-color: aqua;
+}
+.box2 {
+    background-color: rgb(219, 182, 133);
+}
+.box3 {
+    background-color:brown;
+}
+.box4 {
+    background-color: rgb(80, 59, 33);
+}
+.box5 {
+    background-color: blueviolet;
+}
