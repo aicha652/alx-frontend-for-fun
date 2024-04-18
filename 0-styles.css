@@ -1,0 +1,20 @@
+ul {
+    display:flex;
+    justify-content: space-around;
+    flex-direction: row;
+    height: 400px;
+    width: 800px;
+    font-size: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background: url(0-sprite.png);
+    border-radius: 20px 20px 20px 20px;
+    border-color: rgb(10, 10, 10);
+}
+
+.i-html {
+    padding-bottom: 30px;
+}
+
+.i-css {
+    background: url(0-sprite.png) -47px 0;
+}
